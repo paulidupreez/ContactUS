@@ -1,5 +1,5 @@
 # ContactUS
-Thank you for downloading Just Today
+Thank you for downloading my new app.
 
 I hope that you are finding the app very helpfull.
 
